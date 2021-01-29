@@ -39,7 +39,7 @@ public class login implements Serializable{
         String Username = this.Username;
         String Password = this.Password;
         
-        if(Username.equals("basazard") && Password.equals("bagas123")){
+        if(Username.equals("Shadam") && Password.equalss("shadam123")){
             return "berhasil";
         }
         else {
